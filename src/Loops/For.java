@@ -11,7 +11,7 @@ public class For {
         for (isiGelas = 0 ; isiGelas <= penuh ; isiGelas++){
             System.out.println("Sedang mengisi gelas..");
             System.out.println("Isi Gelas Sekarang : " + isiGelas + "ml");
-
         }
-    }    System.out.println("finale : Isi Gelas Sekarang : " + isiGelas + "ml");
+        System.out.println("finale : Isi Gelas Sekarang : " + isiGelas + "ml");
+    }
 }
